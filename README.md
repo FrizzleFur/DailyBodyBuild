@@ -12,7 +12,7 @@ Daily BodyBuild~
 ### BodyBuild2016
 
 1. [BodyBuildLogs2016](https://github.com/FrizzleFur/DailyBodyBuild/blob/master/BodyBuild2016/BodyBuildLogs2016.md)
-2. 
+
 ### BodyBuild2017
 
 1. [BodyBuildLogs17-05](https://github.com/FrizzleFur/DailyBodyBuild/blob/master/BodyBuild2017/BodyBuildLogs17-05.md)
