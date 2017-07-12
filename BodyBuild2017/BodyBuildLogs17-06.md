@@ -1,4 +1,4 @@
-# BodyBuildLogs06
+# BodyBuildLogs17-06
 >Logs for bodybuilding.
 >卷腹：完成SixPacks 
 
